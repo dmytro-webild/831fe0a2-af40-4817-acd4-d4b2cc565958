@@ -66,7 +66,7 @@ export default function LandingPage() {
           handle: "Happy Client",
           testimonial: "Excellent service and attitude. My highlights look amazing!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/mirror-hairdressing-salon_23-2147670185.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mirror-hairdressing-salon_23-2147670185.jpg?_wi=1",
           imageAlt: "luxury salon interior modern",
         },
         {
@@ -74,7 +74,7 @@ export default function LandingPage() {
           handle: "Bridal Client",
           testimonial: "Pre-bridal session was refreshing and peaceful. Amazing service.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-portrait-skincare-routine_23-2151308617.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-portrait-skincare-routine_23-2151308617.jpg?_wi=1",
           imageAlt: "luxury salon interior modern",
         },
         {
@@ -82,7 +82,7 @@ export default function LandingPage() {
           handle: "Hair Care",
           testimonial: "Multi-layered haircut was transformative. Vicky is a pro!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-eco-friendly-products-assortment_23-2148491140.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-eco-friendly-products-assortment_23-2148491140.jpg?_wi=1",
           imageAlt: "luxury salon interior modern",
         },
         {
@@ -90,7 +90,7 @@ export default function LandingPage() {
           handle: "Beauty Enthusiast",
           testimonial: "The atmosphere is so calming and the results are consistently great.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/man-wearing-make-up-sing-brush-his-face_23-2148784333.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-wearing-make-up-sing-brush-his-face_23-2148784333.jpg?_wi=1",
           imageAlt: "luxury salon interior modern",
         },
         {
@@ -98,7 +98,7 @@ export default function LandingPage() {
           handle: "Regular",
           testimonial: "Best place for relaxation and professional beauty treatments in Cuttack.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/two-hairstylers-posing-standing-modern-spacy-beaty-salon_651396-986.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-hairstylers-posing-standing-modern-spacy-beaty-salon_651396-986.jpg?_wi=1",
           imageAlt: "luxury salon interior modern",
         },
       ]}
@@ -108,7 +108,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/mirror-hairdressing-salon_23-2147670185.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/mirror-hairdressing-salon_23-2147670185.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/makeup-brushes-cosmetics-near-mirror_23-2147784017.jpg",
@@ -150,7 +150,7 @@ export default function LandingPage() {
           title: "Rating",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/woman-portrait-skincare-routine_23-2151308617.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/woman-portrait-skincare-routine_23-2151308617.jpg?_wi=2"
     />
   </div>
 
@@ -162,17 +162,17 @@ export default function LandingPage() {
         {
           title: "Hair Treatments",
           description: "Revitalize your hair with our specialized spa and treatment sessions.",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-eco-friendly-products-assortment_23-2148491140.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-eco-friendly-products-assortment_23-2148491140.jpg?_wi=2",
         },
         {
           title: "Bridal Makeup",
           description: "Professional bridal styling to make your special day truly unforgettable.",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-wearing-make-up-sing-brush-his-face_23-2148784333.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-wearing-make-up-sing-brush-his-face_23-2148784333.jpg?_wi=2",
         },
         {
           title: "Keratin & Straightening",
           description: "Advanced hair straightening and smoothing treatments for healthy, sleek hair.",
-          imageSrc: "http://img.b2bpic.net/free-photo/two-hairstylers-posing-standing-modern-spacy-beaty-salon_651396-986.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-hairstylers-posing-standing-modern-spacy-beaty-salon_651396-986.jpg?_wi=2",
         },
       ]}
       title="Our Signature Services"
@@ -193,7 +193,7 @@ export default function LandingPage() {
           quote: "Wonderful job. Services are excellent.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiley-woman-home-getting-ready-haircut_23-2148817221.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/mirror-hairdressing-salon_23-2147670185.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mirror-hairdressing-salon_23-2147670185.jpg?_wi=3",
           imageAlt: "happy client smiling in salon",
         },
         {
@@ -204,7 +204,7 @@ export default function LandingPage() {
           quote: "Refreshing and peaceful session.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/stylist-works-woman-hair-salon_1398-1042.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-portrait-skincare-routine_23-2151308617.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-portrait-skincare-routine_23-2151308617.jpg?_wi=3",
           imageAlt: "happy client smiling in salon",
         },
         {
@@ -215,7 +215,7 @@ export default function LandingPage() {
           quote: "Amazing job, completely changed my hair.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/closeup-outdoor-shot-attractive-portuguese-woman-touch-hair-fli_197531-30596.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-eco-friendly-products-assortment_23-2148491140.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-eco-friendly-products-assortment_23-2148491140.jpg?_wi=3",
           imageAlt: "happy client smiling in salon",
         },
         {
@@ -226,7 +226,7 @@ export default function LandingPage() {
           quote: "Ambience and service was great.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/girl-being-made-up_1157-247.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-wearing-make-up-sing-brush-his-face_23-2148784333.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-wearing-make-up-sing-brush-his-face_23-2148784333.jpg?_wi=3",
           imageAlt: "happy client smiling in salon",
         },
         {
@@ -237,7 +237,7 @@ export default function LandingPage() {
           quote: "Highly trained staff and very polite.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-girl-with-red-lips-nails_158538-8462.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/two-hairstylers-posing-standing-modern-spacy-beaty-salon_651396-986.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-hairstylers-posing-standing-modern-spacy-beaty-salon_651396-986.jpg?_wi=3",
           imageAlt: "happy client smiling in salon",
         },
       ]}
